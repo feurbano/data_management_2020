@@ -5,7 +5,7 @@
 
 Data management is increasingly becoming a necessary skill for ecologists, as has already happened with statistics and GIS. This is especially true for movement ecology that can exploit data sets of ever increasing size, frequency and resolution from tagging techniques. These data come with complex associated information related to the animal characteristics, interactions and management and to the environmental context, such as population density, weather, habitat types and vegetation indexes based on remote sensing.  
 This course has the objective to learn how to handle, model, store, and process in a robust and efficient way animal ecology data, and particularly the spatio-temporal information linked with movement data.  
-These objectives will be pursued through a hands-on, step by step approach during an intense one-week course with a mix of technical lectures and hands-on exercises to manage and manipulate ecological data typically used in Movement Ecology.  
+These objectives will be pursued through a hands-on, step by step approach during an intense one-week course with a mix of technical lectures and hands-on exercises to manage and manipulate ecological data typically used in movement ecology.  
 Proficiently following the course will provide participants with solid skills in management and analysis of ecological spatio-temporal data. At the end of the course the participants:  
 * will be able to create a (spatial) database to store their ecological data set;  
 * will master SQL and spatial SQL to retrieve and process their data;  
@@ -13,8 +13,7 @@ Proficiently following the course will provide participants with solid skills in
 * can use R in connection with a database to analyse their data.  
 
 #### VENUE  
-[University of Aveiro](https://www.ua.pt/), Portugal  
-[Department of Biology](documents/images/2020_CampusAveiro.pdf), (Building 8)
+[University of Aveiro](https://www.ua.pt/), Portugal - [Department of Biology](documents/images/2020_CampusAveiro.pdf) (Building 8)
 
 #### DATES  
 **Summer School**: July 06th - 10th, 2020  
@@ -24,14 +23,14 @@ Proficiently following the course will provide participants with solid skills in
 #### ORGANIZERS  
 Carlos Fonseca, University of Aveiro  
 Rita Torres, University of Aveiro  
-Francesca Cagnacci, Research and Innovation Centre - Edmund Mach Foundation  
+Francesca Cagnacci, Edmund Mach Foundation  
 
 #### TEACHERS
 Ferdinando Urbano (environmental analyst, Euromammals)  
 Emiel van Loon (quantitative ecologist, University of Amsterdam)  
 Francesca Cagnacci (movement ecologist, Fondazione Edmund Mach)  
 Federico Ossi (wildlife biologist, University of Trento)  
-Paola Semenzato (data manager, DREAm - Italy)  
+Paola Semenzato (data curator, D.R.E.Am. Italia)  
 Johannes De Groeve (data analyst, University of Amsterdam)  
 
 #### EVALUATION AND CREDITS  
@@ -45,7 +44,7 @@ Johannes De Groeve (data analyst, University of Amsterdam)
 * Movement Ecology Data Analysis in R (*6 hours*)  
 
 The complete **program** is available [here](https://github.com/feurbano/data_management_2020/blob/master/documents/program.md) ([PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_program.pdf))  
-The detailed **schedule** is available [here](https://github.com/feurbano/data_management_2020/blob/master/documents/schedule.md) ([PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_schedule.pdf))  
+The detailed **schedule** is available [here](https://github.com/feurbano/data_management_2020/blob/master/documents/schedule.md) ([PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_schedule.pdf)).  
 
 #### PARTICIPATION  
 This course targets PhD students, but participation of post-docs, researchers, managers and motivated MSc is also fostered. There will be room for a maximum of 25 participant.  
