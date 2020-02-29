@@ -26,9 +26,9 @@ Rita Torres, University of Aveiro
 Francesca Cagnacci, Edmund Mach Foundation  
 
 #### TEACHERS
-Ferdinando Urbano (environmental analyst, Euromammals)  
+Ferdinando Urbano (environmental analyst, freelance consultant - Euromammals)  
 Emiel van Loon (quantitative ecologist, University of Amsterdam)  
-Francesca Cagnacci (movement ecologist, Fondazione Edmund Mach)  
+Francesca Cagnacci (movement ecologist, Edmund Mach Foundation)  
 Federico Ossi (wildlife biologist, University of Trento)  
 Paola Semenzato (data curator, D.R.E.Am. Italia)  
 Johannes De Groeve (data analyst, University of Amsterdam)  
@@ -68,6 +68,7 @@ From **Porto**, there are frequent direct trains to Aveiro from Campanhã or Sã
 District capital, the city of Aveiro is located in the Central Region of Portugal (Baixo Vouga) and has around 55,000 inhabitants. The city is evenly distributed over the lagoon landscape, since the Ria de Aveiro penetrates the urban space, crossed by a network of channels through which *moliceiros* (local colourful vessels) meander. Visiting on foot does not mean too much effort either since the city is flat, and anyone who enjoys cycling can take a *BUGA* - bicycles made freely available by Aveiro City Council. The São Jacinto Dunes Natural Reserve is about 15 minutes away, with its almost wild beaches. On the other side of the lagoon 10 km from Aveiro, Praia da Barra is a beautiful and spacious sandy beach with perfect conditions for night life and for a range of sports including surfing, bodyboarding, kite-surfing, sailing and sea fishing. For more detailed information see https://www.visitportugal.com/.
 
 <p align="center"><img src="documents/images/praia_barra.png" height="180" /> <img src="documents/images/aveiro_houses.png" height="180" /> <img src="documents/images/roedeer.png" height="180" /></p>
+
 ---
 
 ### LESSONS MATERIAL AND SCHEDULE  
