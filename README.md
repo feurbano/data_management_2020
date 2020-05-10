@@ -1,7 +1,15 @@
 <p align="center"><img src="documents/images/logo_fem.png" height="70" /> <img src="documents/images/logo_aveiro.png" height="70" /><img src="documents/images/logo_euromammals.png" height="70" /></p>
 
 ### <p align="center">4th Euromammals Summer School - University of Aveiro, Portugal <br>  July 6th - 10th, 2020</p>
-# <p align="center">Data Management in Movement Ecology 2020</p>  
+# <p align="center">Data Management in Movement Ecology 2021 [?]</p>  
+
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+
+
 
 Data management is increasingly becoming a necessary skill for ecologists, as has already happened with statistics and GIS. This is especially true for movement ecology that can exploit data sets of ever increasing size, frequency and resolution from tagging techniques. These data come with complex associated information related to the animal characteristics, interactions and management and to the environmental context, such as population density, weather, habitat types and vegetation indexes based on remote sensing.  
 This course has the objective to learn how to handle, model, store, and process in a robust and efficient way animal ecology data, and particularly the spatio-temporal information linked with movement data.  
