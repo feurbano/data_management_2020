@@ -5,10 +5,13 @@
 
 
 ```diff
-+ The summer school was scheduled for summer 2020 but due to the restrictions due to COVID-19, it was postponed to 2021. The course, dates, final program and location are still to be confirmed even if in the beginning it will be held in the summer 2021 at the University of Aveiro.
-
-- The material is still temporary and partial and must be considered work in progress.
++ PROGRAM CHANGES CAUSED BY COVID-19 +
 ```
+**The summer school was scheduled for summer 2020 but due to the restrictions due to COVID-19, it was postponed to 2021. The course, dates, final program and location are still to be confirmed even if in the beginning it will be held in the summer 2021 at the University of Aveiro.**
+
+- **The material is still temporary and partial and must be considered work in progress.**
+
+___
 
 Data management is increasingly becoming a necessary skill for ecologists, as has already happened with statistics and GIS. This is especially true for movement ecology that can exploit data sets of ever increasing size, frequency and resolution from tagging techniques. These data come with complex associated information related to the animal characteristics, interactions and management and to the environmental context, such as population density, weather, habitat types and vegetation indexes based on remote sensing.  
 This course has the objective to learn how to handle, model, store, and process in a robust and efficient way animal ecology data, and particularly the spatio-temporal information linked with movement data.  
@@ -71,7 +74,7 @@ From **Lisboa**, there are frequent direct trains to Aveiro from the Oriente or 
 
 From **Porto**, there are frequent direct trains to Aveiro from Campanhã or São Bento stations. The journey takes 50 minutes. By car the journey takes about 50 minutes (75 km).
 
-#### LOCATION (**to be confirmed**) 
+#### LOCATION (**to be confirmed**)
 District capital, the city of Aveiro is located in the Central Region of Portugal (Baixo Vouga) and has around 55,000 inhabitants. The city is evenly distributed over the lagoon landscape, since the Ria de Aveiro penetrates the urban space, crossed by a network of channels through which *moliceiros* (local colourful vessels) meander. Visiting on foot does not mean too much effort either since the city is flat, and anyone who enjoys cycling can take a *BUGA* - bicycles made freely available by Aveiro City Council. The São Jacinto Dunes Natural Reserve is about 15 minutes away, with its almost wild beaches. On the other side of the lagoon 10 km from Aveiro, Praia da Barra is a beautiful and spacious sandy beach with perfect conditions for night life and for a range of sports including surfing, bodyboarding, kite-surfing, sailing and sea fishing. For more detailed information see https://www.visitportugal.com/.
 
 <p align="center"><img src="documents/images/praia_barra.png" height="180" /> <img src="documents/images/aveiro_houses.png" height="180" /> <img src="documents/images/roedeer.png" height="180" /></p>
