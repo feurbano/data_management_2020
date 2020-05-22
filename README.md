@@ -3,11 +3,10 @@
 ### <p align="center">4th Euromammals Summer School - University of Aveiro, Portugal [?] <br>  July [?] 2021 [?]</p>
 # <p align="center">Data Management in Movement Ecology 2021 [?]</p>  
 
-<p align="center">
 ```diff
 - PROGRAM CHANGES CAUSED BY COVID-19 -
 ```
-</p> 
+
 **The summer school was scheduled for summer 2020 but due to the restrictions related to COVID-19, it was postponed to 2021. The course, dates, final program and location are still to be confirmed (the idea is to organize it in the summer 2021 at the University of Aveiro).**
 
 ___
